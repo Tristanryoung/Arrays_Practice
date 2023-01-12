@@ -10,3 +10,5 @@ console.log(numberAccidents);
 favoriteColor.push("Brown");
 console.log(favoriteColor)
 // push function adds one or more elements to the end of the array, thus brown was added and will create a new length of the array
+
+// In order to save the computer time and energy, index positions start at 0-- for example, when looking at var students we can assign Tristan to 0 and Pan to 3, the students inbetween represent numerical positions 1 and 2. If we started at 1, the computer would work harder by adding 1 to those positions using N+1
